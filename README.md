@@ -21,5 +21,11 @@ These instructions will help you set up and run the project on your local machin
 - Run the backend server (python manage.py runserver)
   
 ##APIs Endpoints
-- localhost:8000/api/vendors/
+- /api/vendors/ : create and list vendors
+- api/ vendors/<int:pk>/ : retrieve,update and delete vendors
+- api/ purchase_orders/  : create and list purchaseorders
+- api/ purchase_orders/<int:pk>/ : retrieve,update and delete purchaseorders
+- api/ historical_performance/ : create and list historical performance
+- api/ historical_performance/<int:pk>/ : retrieve,update and delete historical performance
+- api/ purchase_orders/<int:pk>/acknowledge/ : purchase order acknowledgement
 
