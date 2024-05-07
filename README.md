@@ -10,7 +10,7 @@ The Vendor Management System is a web application developed using Django, design
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine:
-- Clone : git clone https://github.com/mehakaijaz/fatmug_design_assignment.git
+- Clone : git clone https://github.com/mehakaijaz/fatmugdesigns_assignment.git
 - Activate virtual environment(new\scripts\activate)
 - Install all the packages(pip install -r requirements.txt)
 - Navigate inside the project(cd vms-master)
